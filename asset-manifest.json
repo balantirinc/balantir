@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/balantir/static/css/main.073c9b0a.css",
+    "main.js": "/balantir/static/js/main.68eeac4e.js",
+    "static/js/787.fef6af80.chunk.js": "/balantir/static/js/787.fef6af80.chunk.js",
+    "static/media/logo.svg": "/balantir/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/balantir/index.html",
+    "main.073c9b0a.css.map": "/balantir/static/css/main.073c9b0a.css.map",
+    "main.68eeac4e.js.map": "/balantir/static/js/main.68eeac4e.js.map",
+    "787.fef6af80.chunk.js.map": "/balantir/static/js/787.fef6af80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.68eeac4e.js"
+  ]
+}
